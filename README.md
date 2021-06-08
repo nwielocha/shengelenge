@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shengelenge
 - 👀 I’m interested in game development and blockchain
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently studying Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: shengelenge@protonmail.com
 
